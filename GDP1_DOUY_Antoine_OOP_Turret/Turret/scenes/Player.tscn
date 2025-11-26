@@ -1,0 +1,76 @@
+[gd_scene load_steps=16 format=3 uid="uid://dia46lhqv0lyg"]
+
+[ext_resource type="Texture2D" uid="uid://chas5jlye50o4" path="res://assets/textures/Shield/Shield0001.png" id="1_tchgc"]
+[ext_resource type="Script" path="res://scripts/Player.cs" id="1_xgr7v"]
+[ext_resource type="Texture2D" uid="uid://snqeex6bssiq" path="res://assets/textures/Shield/Shield0002.png" id="2_0wfbe"]
+[ext_resource type="PackedScene" uid="uid://b2fr47450u32n" path="res://scenes/Shot.tscn" id="2_dupo3"]
+[ext_resource type="Texture2D" uid="uid://dsoj8hn5yeue6" path="res://assets/textures/Shield/Shield0003.png" id="3_rktlv"]
+[ext_resource type="Texture2D" uid="uid://woys60eccdgl" path="res://assets/textures/Shield/Shield0004.png" id="4_xxq2t"]
+[ext_resource type="Texture2D" uid="uid://cv85wn5s4tvhp" path="res://assets/textures/Shield/Shield0005.png" id="5_tq5rx"]
+[ext_resource type="Texture2D" uid="uid://c3qgq4sajtt26" path="res://assets/textures/Shield/Shield0006.png" id="6_55fjg"]
+[ext_resource type="Texture2D" uid="uid://b20psdvnw8khn" path="res://assets/textures/Shield/Shield0007.png" id="7_omyxm"]
+[ext_resource type="Texture2D" uid="uid://cgy0fbibvmya4" path="res://assets/textures/Shield/Shield0008.png" id="8_ejxwl"]
+[ext_resource type="Texture2D" uid="uid://ceq6kkq6trxte" path="res://assets/textures/Shield/Shield0009.png" id="9_2pavp"]
+[ext_resource type="Texture2D" uid="uid://1nnraoqd5uxo" path="res://assets/textures/Shield/Shield0010.png" id="10_f83tm"]
+[ext_resource type="Texture2D" uid="uid://crobwtuobh2sd" path="res://assets/textures/Player.png" id="11_qgvl4"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_gjsjn"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_tchgc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_0wfbe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_rktlv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_xxq2t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_tq5rx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_55fjg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_omyxm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ejxwl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_2pavp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_f83tm")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_edi32"]
+radius = 76.6551
+
+[node name="Player" type="Area2D"]
+script = ExtResource("1_xgr7v")
+bullet = ExtResource("2_dupo3")
+
+[node name="shield" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_gjsjn")
+frame = 9
+frame_progress = 1.0
+
+[node name="hitbox" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_edi32")
+debug_color = Color(0.877795, 0.298058, 0.43739, 0.42)
+
+[node name="cannon" type="Sprite2D" parent="."]
+texture = ExtResource("11_qgvl4")
+offset = Vector2(37, 0)
+
+[node name="shootPosition" type="Marker2D" parent="cannon"]
+position = Vector2(89, 0)

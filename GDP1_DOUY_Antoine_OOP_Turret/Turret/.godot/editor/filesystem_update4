@@ -1,0 +1,13 @@
+res://default_env.tres
+res://scenes/Main.tscn
+res://scenes/Enemy.tscn
+res://scenes/Player.tscn
+res://scenes/Shot.tscn
+res://scenes/Explosion.tscn
+res://scenes/HUD.tscn
+res://scripts/Shoot.cs
+res://scripts/Player.cs
+res://scripts/Hud.cs
+res://scripts/Enemy.cs
+res://scripts/Main.cs
+res://scripts/Movable.cs

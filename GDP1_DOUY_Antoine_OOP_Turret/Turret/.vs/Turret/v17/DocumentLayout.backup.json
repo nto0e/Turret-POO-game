@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|e:\\isart\\gdp 1\\programmation\\programmation_oriente_objet_whorkshop\\gdp1_douy_antoine_oop_turret\\turret\\scripts\\movable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|solutionrelative:scripts\\movable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|e:\\isart\\gdp 1\\programmation\\programmation_oriente_objet_whorkshop\\gdp1_douy_antoine_oop_turret\\turret\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|e:\\isart\\gdp 1\\programmation\\programmation_oriente_objet_whorkshop\\gdp1_douy_antoine_oop_turret\\turret\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|solutionrelative:scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|e:\\isart\\gdp 1\\programmation\\programmation_oriente_objet_whorkshop\\gdp1_douy_antoine_oop_turret\\turret\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|solutionrelative:scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|e:\\isart\\gdp 1\\programmation\\programmation_oriente_objet_whorkshop\\gdp1_douy_antoine_oop_turret\\turret\\scripts\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|solutionrelative:scripts\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|e:\\isart\\gdp 1\\programmation\\programmation_oriente_objet_whorkshop\\gdp1_douy_antoine_oop_turret\\turret\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|solutionrelative:scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|e:\\isart\\gdp 1\\programmation\\programmation_oriente_objet_whorkshop\\gdp1_douy_antoine_oop_turret\\turret\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2065E29F-5170-4D59-A4B2-9CD6354512D0}|Turret.csproj|solutionrelative:scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 726,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "scripts\\ClassDiagram1.cd",
+              "ToolTip": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\ClassDiagram1.cd",
+              "RelativeToolTip": "scripts\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-11-21T11:25:10.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Main.cs",
+              "RelativeDocumentMoniker": "scripts\\Main.cs",
+              "ToolTip": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Main.cs",
+              "RelativeToolTip": "scripts\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:59:17.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "scripts\\Enemy.cs",
+              "ToolTip": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Enemy.cs",
+              "RelativeToolTip": "scripts\\Enemy.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:35:31.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movable.cs",
+              "DocumentMoniker": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Movable.cs",
+              "RelativeDocumentMoniker": "scripts\\Movable.cs",
+              "ToolTip": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Movable.cs",
+              "RelativeToolTip": "scripts\\Movable.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwDQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:28:52.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hud.cs",
+              "DocumentMoniker": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Hud.cs",
+              "RelativeDocumentMoniker": "scripts\\Hud.cs",
+              "ToolTip": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Hud.cs",
+              "RelativeToolTip": "scripts\\Hud.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:20:23.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "scripts\\Player.cs",
+              "ToolTip": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Player.cs",
+              "RelativeToolTip": "scripts\\Player.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:27:43.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shoot.cs",
+              "DocumentMoniker": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Shoot.cs",
+              "RelativeDocumentMoniker": "scripts\\Shoot.cs",
+              "ToolTip": "E:\\Isart\\GDP 1\\PROGRAMMATION\\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\\GDP1_DOUY_Antoine_OOP_Turret\\Turret\\scripts\\Shoot.cs",
+              "RelativeToolTip": "scripts\\Shoot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T14:11:06.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

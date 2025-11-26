@@ -1,0 +1,170 @@
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\bin\Debug\Turret.deps.json
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\bin\Debug\Turret.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\bin\Debug\Turret.pdb
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\bin\Debug\GodotSharp.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\refint\Turret.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.pdb
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\Ressources_Etudiants\Turret\.godot\mono\temp\obj\Debug\ref\Turret.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\bin\Debug\Turret.deps.json
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\bin\Debug\Turret.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\bin\Debug\Turret.pdb
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\bin\Debug\GodotSharp.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\refint\Turret.dll
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.pdb
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+G:\Drive partagés\PEDAGO_GDP\2024-2025\_GDP\GDP1\Programmation\Fundamentals Workshops\3_Turret\lvl5\.godot\mono\temp\obj\Debug\ref\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\bin\Debug\Turret.deps.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\bin\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\bin\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\refint\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl5\.godot\mono\temp\obj\Debug\ref\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\bin\Debug\Turret.deps.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\bin\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\bin\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\refint\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl6\.godot\mono\temp\obj\Debug\ref\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\bin\Debug\Turret.deps.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\bin\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\bin\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\refint\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Correction LVL 5 a 7\lvl7\.godot\mono\temp\obj\Debug\ref\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\bin\Debug\Turret.deps.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\bin\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\bin\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\refint\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\Turret_Ressource_Lvl8\.godot\mono\temp\obj\Debug\ref\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\bin\Debug\Turret.deps.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\bin\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\bin\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\refint\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources étudiants\3_Turret\lvl8\.godot\mono\temp\obj\Debug\ref\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\Turret.deps.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\refint\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\prog workshop\Ressources corrigées\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\ref\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\Turret.deps.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\refint\Turret.dll
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.pdb
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+C:\Users\mathi\Documents\Pro\isart\2026\GDP\__en classe__\correction\3_Turret\Turret MonoBloc\.godot\mono\temp\obj\Debug\ref\Turret.dll
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\bin\Debug\Turret.deps.json
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\bin\Debug\Turret.runtimeconfig.json
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\bin\Debug\Turret.dll
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\bin\Debug\Turret.pdb
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\bin\Debug\GodotSharp.dll
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.csproj.AssemblyReference.cache
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.GeneratedMSBuildEditorConfig.editorconfig
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.AssemblyInfoInputs.cache
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.AssemblyInfo.cs
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.csproj.CoreCompileInputs.cache
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.csproj.Up2Date
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.dll
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\refint\Turret.dll
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.pdb
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\Turret.genruntimeconfig.cache
+E:\Isart\GDP 1\PROGRAMMATION\PROGRAMMATION_ORIENTE_OBJET_WHORKSHOP\GDP1_DOUY_Antoine_OOP_Turret\Turret\.godot\mono\temp\obj\Debug\ref\Turret.dll

@@ -1,0 +1,33 @@
+[gd_scene load_steps=8 format=3 uid="uid://5bafuxp1hkhx"]
+
+[ext_resource type="Script" path="res://scripts/Main.cs" id="1_msp8i"]
+[ext_resource type="Texture2D" uid="uid://dul7ooug8ej6n" path="res://assets/textures/Background.png" id="2"]
+[ext_resource type="PackedScene" uid="uid://coa73i7543aw3" path="res://scenes/Enemy.tscn" id="2_r255k"]
+[ext_resource type="PackedScene" uid="uid://dia46lhqv0lyg" path="res://scenes/Player.tscn" id="2_yk7it"]
+[ext_resource type="PackedScene" uid="uid://br7mkh1oa65mo" path="res://scenes/HUD.tscn" id="4_b4hl2"]
+[ext_resource type="PackedScene" uid="uid://b2fr47450u32n" path="res://scenes/Shot.tscn" id="4_ry0cs"]
+[ext_resource type="PackedScene" uid="uid://db38btxofd2om" path="res://scenes/Explosion.tscn" id="6_526o6"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_msp8i")
+packedEnemy = ExtResource("2_r255k")
+packedPlayer = ExtResource("2_yk7it")
+packedHUD = ExtResource("4_b4hl2")
+packedShot = ExtResource("4_ry0cs")
+packedExplosion = ExtResource("6_526o6")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(-3, -10)
+scale = Vector2(0.812587, 0.821118)
+texture = ExtResource("2")
+centered = false
+
+[node name="gameContainer" type="Node2D" parent="."]
+scale = Vector2(0.999996, 0.999997)
+
+[node name="UserInterface" type="Control" parent="."]
+clip_contents = true
+layout_mode = 3
+anchors_preset = 0
+size_flags_horizontal = 3
+size_flags_vertical = 3
